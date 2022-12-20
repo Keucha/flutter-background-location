@@ -4,9 +4,31 @@ Flutter project for background task tests
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Step-1: Download or clone this repository -
 
-A few resources to get you started if this is your first Flutter project:
+    git clone https://github.com/Keucha/flutter-background-location.git
+
+Step-2: Go to project root and execute the following command in console to get the required dependencies:
+
+    flutter pub get 
+
+## Project Structure
+        
+        ├─── android
+        ├─── ios
+        ├─── lib
+              └─── main.dart
+        └─── pubspec.yaml
+
+## Required Tools
+- Android Studio
+- Visual Studio Code (Optional)
+- Flutter
+- Dart
+
+## New to Flutter project!
+
+Follow this -
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
